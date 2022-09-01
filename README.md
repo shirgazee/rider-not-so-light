@@ -8,4 +8,4 @@ Used theme: [Grey Theme](https://github.com/OlyaB/GreyTheme)
 Used font: [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
 
 
-![screen1](https://github.com/shirgazee/rider-not-so-light/blob/master/images/screen.PNG?raw=true)
+![screen1](https://github.com/shirgazee/rider-not-so-light/blob/master/images/screen.png?raw=true)
