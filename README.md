@@ -4,7 +4,7 @@ These settings add a new color scheme to your JetBrains Rider installation.
 Based on Light Theme it adds a grayish look to keep your eyes from burning.  
 Best for those who find dark themes uncomfortable.  
 
-Used theme: [Grey Theme](https://github.com/OlyaB/GreyTheme)  
+Used theme: [Gray Theme](https://plugins.jetbrains.com/plugin/12103-gray-theme)  
 Used font: [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
 
 

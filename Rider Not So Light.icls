@@ -1,0 +1,34 @@
+<scheme name="Rider Not So Light" version="142" parent_scheme="Rider Light">
+  <metaInfo>
+    <property name="created">2020-09-10T14:38:49</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.1.4.0.0</property>
+    <property name="modified">2020-09-10T14:39:02</property>
+    <property name="originalScheme">Rider Not So Light</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="ecf0f0" />
+    <option name="GUTTER_BACKGROUND" value="f4f5f7" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f4f5f7" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="949494" />
+        <option name="BACKGROUND" value="f1f1f1" />
+        <option name="EFFECT_COLOR" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="202020" />
+        <option name="BACKGROUND" value="f4f5f7" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
